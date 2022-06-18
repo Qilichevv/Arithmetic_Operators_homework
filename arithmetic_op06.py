@@ -7,3 +7,4 @@ answer=number-int(number)
 #Print the answer.
 print(answer)
 #Print the number.
+print(number)
